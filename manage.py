@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+#  COMANDO PARA DAR RUN python3 manage.py runserver
